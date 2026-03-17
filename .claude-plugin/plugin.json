@@ -1,0 +1,9 @@
+{
+  "name": "architecture-reviewer",
+  "description": "Audit code against architecture documentation — detects drift between design and implementation",
+  "version": "1.0.0",
+  "author": { "name": "Juan Marchetto" },
+  "homepage": "https://github.com/JuanMarchetto/architecture-reviewer-skill",
+  "repository": "https://github.com/JuanMarchetto/architecture-reviewer-skill",
+  "license": "MIT"
+}
