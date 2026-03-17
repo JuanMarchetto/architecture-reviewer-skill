@@ -24,6 +24,8 @@ cp -r architecture-reviewer-skill ~/.claude/skills/architecture-reviewer
 
 ## How It Works
 
+![architecture-reviewer demo](demo/demo.gif)
+
 ```
 ARCHITECTURE.md + Code  -->  Compare  -->  Drift Report
   (what was designed)      (what was built)   (where they diverge)
